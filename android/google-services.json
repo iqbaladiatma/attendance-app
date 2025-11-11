@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "261973249273",
+    "project_id": "jurnal-ilmiahku",
+    "storage_bucket": "jurnal-ilmiahku.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261973249273:android:c3c282c22759f1ffcaa628",
+        "android_client_info": {
+          "package_name": "com.iqbal.attendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClXOHcFBYQBC3sjU2VTt1BKES2M4XkNK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
