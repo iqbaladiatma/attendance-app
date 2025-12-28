@@ -47,6 +47,8 @@ dependencies:
   firebase_auth: ^5.4.2 # Firebase Authentication
   image_picker: ^1.1.2 # Image Picker
   permission_handler: ^11.3.0 # Handle runtime permissions
+  glassmorphism: ^3.0.0 # Glassmorphism effect
+  blur: ^4.0.0 # Blur effect
 
 dev_dependencies:
   flutter_test:
